@@ -1,0 +1,5 @@
+esta es una historia de alvina
+
+Naci en Lima, tengo 20 años
+
+Vive en Huancayo y esta aprendiendo git y github 
