@@ -1,13 +1,7 @@
 esta es una historia de alvina
 
-Naci en Lima - Peru
-Tengo 24 años
+Naci en Lima, tengo 20 años
 
 Vive en Huancayo y esta aprendiendo git y github 
 
-En camara parece sepsi
-pero no es tan diosa en la realidad
-
-hoy es viernes de octubre
-
-hablaremos de su vida
+mañana nos enfocaremos en su vida personal
