@@ -5,6 +5,14 @@ body
     font-family: "Arial";
 }
 
+#cabecera {
+    background-color:yellow;
+    color: black;
+    text-align: center;
+    font-family: "Arial";
+    margin: 50px;
+}
+
 #container {
     color: black;
     text-align: center;
