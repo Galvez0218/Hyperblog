@@ -1,2 +1,2 @@
 # Hyperblog
-un blog de prueba para git y github
+un blog de prueba con html5 y css3, para laravel
